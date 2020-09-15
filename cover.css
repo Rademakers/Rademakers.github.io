@@ -11,7 +11,9 @@ a:hover {
 
 /* Custom default button */
 .btn-secondary,
-.btn-secondary:hover,
+.btn-secondary:hover {
+    opacity: 0.2;
+},
 .btn-secondary:focus {
   color: #333;
   text-shadow: none; /* Prevent inheritance from `body` */
