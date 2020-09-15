@@ -10,7 +10,9 @@ a:hover {
 }
 
 /* Custom default button */
-.btn-secondary,
+.btn-secondary{
+    opacity: 0.9;
+},
 .btn-secondary:hover {
     opacity: 0.2;
 },
